@@ -27,7 +27,7 @@ LOOP_SLEEP_SECONDS = 30      # how often the main loop ticks
 STATE_FILE = "bot_state.json"
 
 MARKET_OPEN = "09:15"
-MARKET_CLOSE = "23:30"
+MARKET_CLOSE = "15:30"
 
 
 # 10-Minute candles are fetched every 10 minutes EXCEPT at the ":15" mark, because ":15" is
